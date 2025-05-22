@@ -11,7 +11,7 @@
 
 - 📌 Some of my crying reasons (╥﹏╥)
 
-## Got stuck? Feel free to take help, no worries at all, have some candies before you leave haha!
+## Got stuck? Take help, free of cost, no worries at all. Have some candies before you leave haha! 🍭🍬
 
 # 💻 Language used :
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
